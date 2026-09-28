@@ -7,12 +7,68 @@ main {
     display: flex;
     justify-content: center;
 }
-
+main article {
+    width: 1480px;
+}
 
 /*---------  Hero Section CSS  ---------*/
-main article {
-    width: 1500px;
-    background-color: black;
+#hero-section {
+    margin: 50px 0;
+    width: 100%;
+    height: 600px;
+    border-radius: 15px;
+    background-image: url("./images/Banner\ Image.png");
+    background:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.961), rgba(0, 0, 0, 0.085)),
+    url("./images/Banner%20Image.png") center/cover no-repeat;
+    display: flex;
+    align-items: center;
+}
+#hero-section article {
+    text-align: center;
+}
+#hero-section article h2 {
+    font-size: 32px;
+    color: white;
+}
+#hero-section article h1 {
+    margin: 0 auto;
+    width: 600px;
+    font-size: 72px;
+    color: white;
+}
+
+
+/*---------  Banner Section CSS  ---------*/
+#banner-section {
+    margin: 50px 0 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#banner-section article {
+    text-align: center;
+}
+#banner-section h1 {
+    font-size: 88px;
+    font-weight: 700;
+    color: #FF0000;
+    font-family: "Inter", sans-serif;
+}
+#banner-section h4 {
+    font-size: 24px;
+    font-weight: 500;
+    color: #FF0000;
+    font-family: "Inter", sans-serif;
+    margin-bottom: 0;
+}
+#banner-section h2 {
+    font-size: 48px;
+    font-weight: 700;
+    color: #070211;
+    font-family: "Inter", sans-serif;
+    margin-top: 10px;
 }
 
 
