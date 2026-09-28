@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    font-family: "Merriweather", serif;
+}
+main {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+/*---------  Hero Section CSS  ---------*/
+main article {
+    width: 1500px;
+    background-color: black;
+}
+
+
+/*---------  Footer Section CSS  ---------*/
+footer {
+    width: 100%;
+    height: 610px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #070211;
+}
+footer article {
+    width: 1480px;
+    color: white;
+}
+.footer-text-table{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-text-table aside div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin-top: 10px;
+}
+.footer-text-table div h3 {
+    margin: 8px 0;
+}
+.footer-text-table a {
+    text-decoration: none;
+}
+.footer-text-table h3 {
+    font-size: 24px;
+    font-weight: 400;
+    color: white;
+    font-family: "Inter", sans-serif;
+}
+#social-icon-block {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin: 55px 0;
+}
+.footer-text-table aside div img {
+    width: 20px;
+    height: 20px;
+}
+#hr {
+    width: 100%;
+    height: 1px;
+    margin: 45px 0;
+    background-color: white;
+}
