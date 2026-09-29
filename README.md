@@ -1,4 +1,4 @@
-# Developer Portfolio
+# New Year Offer
 **Simple HTML & CSS Landing Page**
 
 A one-page promotional website featuring a New Year party celebration, holiday offers, event details, a product gallery, and a newsletter signup.
