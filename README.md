@@ -1,7 +1,7 @@
 # Developer Portfolio
 **Simple HTML & CSS Landing Page**
 
-A personal portfolio website showcasing profile information, skills, experience, and selected work.
+A one-page promotional website featuring a New Year party celebration, holiday offers, event details, a product gallery, and a newsletter signup.
 ---
 
 **Built with:** HTML and CSS
@@ -9,6 +9,27 @@ A personal portfolio website showcasing profile information, skills, experience,
 
 **Tag:** One Page and Non-Responsive
 ---
+
+## Website sections
+
+The webpage contains **11 section elements**: 8 in the main content and 3 in the footer.
+
+### Main content
+
+1. Hero
+2. Banner
+3. Welcome Banner
+4. Event Details
+5. Coming Soon
+6. Holidays Sales
+7. Awesome Portfolio
+8. Subscribe Newsletter
+
+### Footer
+
+1. Contact and Address
+2. Social Links
+3. Copyright and Unsubscribe
 
 ## Project structure
 
