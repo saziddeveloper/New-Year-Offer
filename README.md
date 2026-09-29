@@ -7,7 +7,7 @@ A one-page promotional website featuring a New Year party celebration, holiday o
 **Built with:** HTML and CSS
 ---
 
-**Tag:** One Page and Non-Responsive
+**Tag:** One Page and Non-Responsive and Landing Page
 ---
 
 ## Website sections
