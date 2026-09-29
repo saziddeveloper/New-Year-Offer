@@ -265,12 +265,42 @@ main article {
     width: 650px;
 }
 /*---------  Awesome Portfolio Section CSS  ---------*/
-#awesome-portfolio-section {
-    margin-bottom: 150px;
+#awasome-portfolio-section {
     width: 100%;
-    height: 1160px;
+    height: 1265px;
     display: flex;
     flex-direction: column;
+}
+#awasome-portfolio-section h2 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 500;
+    color: #FF0000;
+    font-family: "Inter", sans-serif;
+}
+#awasome-portfolio-section h1 {
+    margin: 0;
+    margin-top: 25px;
+    font-size: 48px;
+    font-weight: 700;
+    color: #070211;
+}
+#awasome-portfolio-section p {
+    margin: 0;
+    margin: 25px 0 50px;
+    width: 900px;
+    font-size: 20px;
+    color: #0702119f;
+    font-family: "Inter", sans-serif;
+}
+#awasome-portfolio-section article {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 50px;
+}
+#awasome-portfolio-section article img {
+    width: 100%;
+    margin: 0;
 }
 
 /*---------  Footer Section CSS  ---------*/
