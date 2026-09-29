@@ -150,7 +150,7 @@ main article {
 
 /*---------  Coming Soon Section CSS  ---------*/
 #coming-soon-section {
-    margin: 50px 0 150px;
+    margin: 50px 0 50px;
     width: 100%;
     height: 600px;
     display: flex;
@@ -210,6 +210,67 @@ main article {
     font-size: 20px;
     color: #0702119c;
     font-family: "Inter", sans-serif;
+}
+
+/*---------  Holidays Sales Section CSS  ---------*/
+#holidays-sales-section {
+    margin-bottom: 150px;
+    position: relative;
+    width: 100%;
+    height: 980px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("./images/Rectangle\ 2.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+#holidays-sales-section h4 {
+    margin: 0;
+    margin-bottom: 15px;
+    font-size: 24px;
+    font-weight: 500;
+    color: #070211;
+    font-family: "Inter", sans-serif;
+}
+#holidays-sales-section h1 {
+    margin: 0;
+    font-size: 72px;
+    font-weight: 700;
+    color: #070211;
+    font-family: "Inter", sans-serif;
+}
+#holidays-sales-section h1 span {
+    color: #FF0000;
+}
+#holidays-sales-section p {
+    width: 900px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #0702119d;
+    font-family: "Inter", sans-serif;
+    text-align: center;
+    margin-top: 30px;
+}
+#holiday-sales-section-img-1 {
+    position: absolute;
+    bottom: 300px;
+    right: 120px;
+    width: 320px;
+}
+#holiday-sales-section-img-2 {
+    position: absolute;
+    bottom: 50px;
+    left: 150px;
+    width: 650px;
+}
+/*---------  Awesome Portfolio Section CSS  ---------*/
+#awesome-portfolio-section {
+    margin-bottom: 150px;
+    width: 100%;
+    height: 1160px;
+    display: flex;
+    flex-direction: column;
 }
 
 /*---------  Footer Section CSS  ---------*/
