@@ -185,13 +185,12 @@ p {
 }
 #third-aside-coming-soon-section img {
     margin: 0;
-    margin-left: 35px;
+    margin-left: 25px;
     margin-top: 55px;
 }
 #coming-soon-img-container img {
     width: 380px;
     height: 380px;
-    margin-right: 35px;
 }
 #coming-soon-section h3 {
     font-size: 24px;
@@ -347,7 +346,7 @@ p {
     color: #07021146;
     font-size: 20px;
     width: 330px;
-    padding: 25px 25px;
+    padding: 25px 40px;
     border-radius: 50px 0 0 50px;
 }
 #subscribe-newsletter-section div button{
